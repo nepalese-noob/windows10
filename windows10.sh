@@ -4,7 +4,7 @@ read -p "do you want to install windows10? " window
 if [ "$window" = "y" ]; then
 	read -p "step 1- download ZArchivar from playstore " done1
 	echo "step 2- download windows file from this link"
-	read -p "https://drive.google.com/u/0/uc?id=1XuqObh4t9RwZLOorCEB1beHj-v_B5GJ0&export=download"
+	read -p "https://drive.google.com/u/0/uc?id=1OT2Rhd0i7Hbrbc43HDBmexRHjm7sco7w&export=download"
 	read -p "step 3- move downloaded file to /sdcard/windows10 (create windows10 folder first)"
 	read -p '''step 4- Open ZArchiver App  
 	Open Download Folder
